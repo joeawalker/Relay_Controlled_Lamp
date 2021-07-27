@@ -132,3 +132,13 @@ Next navigate to the directory of the python script that was saved earlier and r
 <p align="center">
   <img src="https://github.com/joeawalker/Relay_Controlled_Lamp/blob/main/Images/cmd.JPG">
 </p>
+
+
+<br>
+
+## **Demonstration**
+
+https://user-images.githubusercontent.com/55537303/127207399-943bbbd1-88f5-4202-9825-a29d10b1cafc.mp4
+
+
+
